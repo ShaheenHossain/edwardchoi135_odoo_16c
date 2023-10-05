@@ -40,7 +40,7 @@ export class ErrorDialog extends Component {
 }
 ErrorDialog.template = "web.ErrorDialog";
 ErrorDialog.components = { Dialog };
-ErrorDialog.title = _lt("Odoo Error");
+ErrorDialog.title = _lt("Flexible Capital Co. Error");
 
 // -----------------------------------------------------------------------------
 // Client Error Dialog

@@ -93,7 +93,7 @@ QUnit.module("Fields", (hooks) => {
             Object.assign({}, browser, {
                 setTimeout: (fn) => fn(),
                 navigator: {
-                    userAgent: "Chrome/0.0.0 (Linux; Android 13; Odoo TestSuite)",
+                    userAgent: "Chrome/0.0.0 (Linux; Android 13; Flexible Capital Co. TestSuite)",
                     mediaDevices: {
                         getUserMedia: () => [],
                     },
